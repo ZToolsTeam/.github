@@ -25,7 +25,7 @@
 
 ## 参与共建
 
-- [开发插件](https://github.com/ZToolsTeam/ZTools-extensions#5-分钟贡献你的首款插件)：从脚手架开始，为常用工作添加一个工具。
+- [开发插件](https://github.com/ZToolsTeam/ZTools-extensions/blob/main/CONTRIBUTING.md)：从脚手架开始，为常用工作添加一个工具。
 - [提交问题或建议](https://github.com/ZToolsTeam/ZTools/issues)：描述使用场景、系统版本与复现步骤。
 - [查看版本发布](https://github.com/ZToolsTeam/ZTools/releases)：获取发布说明与安装包。
 
